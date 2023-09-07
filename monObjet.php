@@ -10,3 +10,5 @@ $objet1->taille = 25;
 
 var_dump($objet1);
 
+$objet1->taille = 12;
+
